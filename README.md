@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=02AE00&width=435&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82+%D1%8F+%D0%90%D0%BC%D0%BC%D0%B8%D0%B0%D0%BA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Hack&pause=1000&color=29A70E&background=000000&width=435&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82+%D1%8F+%D0%90%D0%BC%D0%BC%D0%B8%D0%B0%D0%BA)](https://git.io/typing-svg)
 > Разработчик & Художник
 ### Обо мне
 > Учусь на программиста и занимаюсь веб-разработкой.
