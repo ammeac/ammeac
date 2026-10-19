@@ -1,4 +1,8 @@
-## Hi there 👋
+## 💬 Привет я Аммиак
+> Разработчик & художник
+### Обо мне
+> Учусь на программиста и занимаюсь веб-разработкой.
+> Рисую digital-арты, создаю дизайны и концепты.
 
 <!--
 **ammeac/ammeac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
