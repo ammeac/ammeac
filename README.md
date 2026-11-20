@@ -4,8 +4,8 @@
 > Учусь на программиста и занимаюсь веб-разработкой.
 > Рисую digital-арты, создаю дизайны и концепты.
 
-<p align="center">
+
 ![Ammead's GitHub stats](https://github-readme-stats.vercel.app/api?username=ammeac&show_icons=true&theme=radical)
-</p>
+
 <!--
 **ammeac/ammeac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
